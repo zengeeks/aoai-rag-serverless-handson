@@ -216,5 +216,5 @@ API が正常に動作して Cosmos DB への Upsert 処理が行なわれると
 
 ---
 
-[⏮️ 前へ](./implement-change-feed-dotnet.md) | [📋 目次](../README.md) | [⏭️ リソースの削除へ](./remove-azure-resources.md)
+[⏮️ 前へ](./implement-vector-search-dotnet.md) | [📋 目次](../README.md) | [⏭️ リソースの削除へ](./remove-azure-resources.md)
 

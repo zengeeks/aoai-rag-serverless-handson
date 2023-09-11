@@ -449,4 +449,4 @@ Azure 上の Funciton App で動作確認をします。
 
 ---
 
-[⏮️ 前へ](./implement-vector-search-dotnet.md) | [📋 目次](../README.md) | [⏭️ 次へ](./implement-cosmos-data-update-dotnet.md)
+[⏮️ 前へ](./implement-change-feed-dotnet.md) | [📋 目次](../README.md) | [⏭️ 次へ](./implement-cosmos-data-update-dotnet.md)
