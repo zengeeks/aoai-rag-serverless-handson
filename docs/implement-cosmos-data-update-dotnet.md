@@ -85,7 +85,7 @@ DI の登録時、`CosmosConnectionString` という環境変数で Cosmod DB �
 
 ### 値をセット
 
-Cosmos DB の接続文字列は、"Indexer" の Function App の "local.settings.json" ですでに登録済みなので、そちらから値を取得し、"HantsonApi" の "local.settings.json" `CosmosConnection` の値へペースとします。
+Cosmos DB の接続文字列は、"Indexer" の Function App の "local.settings.json" ですでに登録済みなので、そちらから値を取得し、"HantsonApi" の "local.settings.json" `CosmosConnection` の値へペーストします。
 
 
 ## 6-4. Cosmos DB のデータ更新処理の実装
@@ -101,7 +101,7 @@ Cosmos DB の接続文字列は、"Indexer" の Function App の "local.settings
 
 <br>
 
-名前に「CosmosDataUploaderc.cs」と入力し "追加" をクリックします。
+名前に「DataUploader.cs」と入力し "追加" をクリックします。
 
 ![](./images/6-4-2.png)
 

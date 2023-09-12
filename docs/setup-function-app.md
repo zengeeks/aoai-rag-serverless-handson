@@ -2,7 +2,7 @@
 
 Function App (関数アプリ) は多様なトリガーからイベントドリブンで処理を実行することのできる PaaS/Serverless のサービスです。Http リクエストをトリガーとした REST API や、Azure の Blob Storage にファイルがアップロードされたことをトリガーとした処理などが容易に実装できます。
 
-こでは、Function App で以下を実践します。
+ここでは、Function App で以下を実践します。
 
 - 3-1. Function App のリソース作成 (Change Feed 用)
 - 3-2. Function App のリソース作成 (API 用)
