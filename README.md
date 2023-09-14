@@ -47,13 +47,13 @@
 
 タイトル | 概要
 --- | ---
-[🧪 0. Azure OpenAI Service のセットアップ](./docs/setup-cognitive-search.md) | 今回のハンズオンで利用する Azure OpenAI Service のリソースをセットアップします。
+[🧪 0. Azure OpenAI Service のセットアップ](./docs/setup-azure-openai.md) | 今回のハンズオンで利用する Azure OpenAI Service のリソースをセットアップします。
 [🧪 1. Cognitive Search のセットアップ](./docs/setup-cognitive-search.md) | 今回のハンズオンで利用する Cognitive Search のリソースをセットアップします。
 [🧪 2. Cosmos DB のセットアップ](./docs/setup-cosmos-db.md) | 今回のハンズオンで利用する Cosmos DB のリソースをセットアップします。
 [🧪 3. Function App のセットアップ](./docs/setup-function-app.md) | 今回のハンズオンで利用する Function App のリソースをセットアップします。
 [🧪 4. インデックスの更新処理の実装](./docs/implement-change-feed-dotnet.md) | Function App で、Change Feed 機能を活用して Cognitive Search のインデックスのデータを更新する処理を実装します。
-[🧪 5. ベクター検索の実装](./docs/implement-vector-search.md) | Function App で、ベクター検索の API を実装します。
-[(オプション) <br>🧪 6. Cosmos DB のデータ更新](./docs/Implement-cosmos-db-operations.md) | Function App で、Cosmos DB のデータを更新する処理を実装します。
+[🧪 5. ベクター検索の実装](./docs/implement-vector-search-dotnet.md) | Function App で、ベクター検索の API を実装します。
+[(オプション) <br>🧪 6. Cosmos DB のデータ更新](./docs/implement-cosmos-data-update-dotnet.md) | Function App で、Cosmos DB のデータを更新する処理を実装します。
 [🚮 Azure のリソース削除](./docs/remove-azure-resources.md) | Azure のリソースを削除する方法を説明します。
 
 <br>
